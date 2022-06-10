@@ -1,0 +1,7 @@
+*~
+*.csv
+*.pdf
+*.png
+*.pyc
+*.egg-info/
+*pycache*
